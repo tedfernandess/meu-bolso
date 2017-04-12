@@ -1,0 +1,17 @@
+package mz.co.tfsolucoes.model;
+
+public enum CategoriaType {
+
+	RENDA_PAGAMENTO_SERVICOS,
+	ENTRETENIMENRO,
+	SALARIO,
+	DESPORTO,
+	SAUDE,
+	COMIDA,
+	VIAGEM,
+	PAGAMENTO_DIVIDAS,
+	CARRO,
+	EMPRESTIMO,
+	OUTROS;
+	
+}
